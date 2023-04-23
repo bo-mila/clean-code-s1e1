@@ -49,11 +49,14 @@
   padding: 0px;
 }
 
-.task-item, .title {
+.task-item,
+.title {
   list-style: none;
 }
 
-.check, .btn, .task{
+.check,
+.btn,
+.task {
   outline: none;
 }
 
@@ -133,12 +136,12 @@
   width: 226px;
 }
 
-.task-item >  .task-input {
+.task-item > .task-input {
   vertical-align: middle;
   width: 226px;
 }
 
-.task-item >  .btn {
+.task-item > .btn {
   vertical-align: middle;
 }
 
