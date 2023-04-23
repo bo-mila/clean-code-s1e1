@@ -13,7 +13,7 @@ body {
 .banner img {
   width: 100%;
 }
-.banner .reference-more {
+.banner .refer-more {
   font-family: fantasy, cursive;
 }
 
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.task-row-wrap {
   display: flex;
 }
 ul {
